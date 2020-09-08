@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Junseok0326)](https://github.com/anuraghazra/github-readme-stats)
+![Junseok's github stats](https://github-readme-stats.vercel.app/api?username=Junseok0326)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
