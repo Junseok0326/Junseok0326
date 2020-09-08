@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-![Junseok's github stats](https://github-readme-stats.vercel.app/api?username=Junseok0326&chow_icons=true)
+![Junseok's github stats](https://github-readme-stats.vercel.app/api?username=Junseok0326&show_icons=true)
 </div>
 
 <!--
