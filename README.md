@@ -1,7 +1,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Junseok0326&show_icons=true)
 
-![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=brother0326)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=brother0326)](https://solved.ac/brother0326)
 
 <!--
 UPDATE 2020.11.04
