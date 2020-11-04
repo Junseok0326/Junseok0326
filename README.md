@@ -4,6 +4,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=brother0326)](https://solved.ac/brother0326)
 
 <!--
+UPDATE 2020.11.04
 **Junseok0326/Junseok0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
